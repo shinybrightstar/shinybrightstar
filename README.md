@@ -1,8 +1,8 @@
 - 👋 Hi, 
-- 👀 I’m  a Support Specialist and a Community Manager interested in Open Source, Saas and  Cloud DevOps.
-- 🌱 I learn and develop myself every single day.
+- 👀 I’m  a Community Manager interested in Open Source and  Cloud DevOps.
+- 🌱 I am actively developing myself every single day.
 - 💞️ I’m looking to collaborate on Community Management as well as open source projects.
-- 📫 You can reach me likedIn and twitter.
+- 📫 
 -
 
 <!---
