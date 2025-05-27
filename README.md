@@ -1,12 +1,3 @@
-<p>
-  <a href="https://github.com/shinybrightstar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=blue" /></a>
-</p>
-
-<!---
-This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm ShinyBrightStar</h1>
 <h3 align="center">A Community Manager passionate about building connections and driving impact in Open Source</h3>
 
@@ -34,4 +25,13 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinybrightstar&show_icons=true&locale=en" alt="shinybrightstar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinybrightstar&" alt="shinybrightstar" /></p>
+
+<p>
+  <a href="https://github.com/shinybrightstar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=blue" /></a>
+</p>
+
+<!---
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
