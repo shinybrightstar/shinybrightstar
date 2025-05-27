@@ -2,40 +2,74 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Community Manager | Open Source Enthusiast</title>
     <link rel="stylesheet" href="style.css">
-    <title>uceeyjudy</title>
 </head>
 <body>
+    <!-- Navigation -->
     <nav>
-        <a href="#about">About</a>
-        <a href="#blog">Blog</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
     </nav>
-    <main>
-        <h1 id="about">Hello, I am passionate about bringing out great products; wheather that's through 
-            business development, UX design or software engineering</h1>
-        <section id="projects">
-            <p>UX design</p>
-            <p>Software engineering</p>
-            <p>Business Analytics</p>
-        </section>
-        <article id="blog">
 
-        </article>
-    </main>
-    <footer id="contact">
-        Thank you for visiting us today <span id ="today-date"></span>
-        <script>
-            // Get a hold of the element with Id today-date
-    
-    const dateElement =document.getElementById("today-date");
-    // Set the function (Inner HTML) to be a string representation of today's date
-    dateElement.innerHTML = new Date( );
-        </script>
-        Copyright @ Uceeyjudy 2023
+    <!-- Landing Section -->
+    <section id="home" class="landing">
+        <h1>Hi, I'm [Your Name]</h1>
+        <p>Community Manager passionate about building connections and driving impact in Open Source.</p>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Dedicated to fostering vibrant communities and facilitating collaborative open-source projects. My goal is to build bridges and empower developers globally.</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>Highlighted Projects</h2>
+        <div class="projects-container">
+            <!-- Project Card 1 -->
+            <div class="project-card">
+                <h3>Project Title 1</h3>
+                <p>Short description of the project highlighting key aspects.</p>
+                <a href="#">View Project</a>
+            </div>
+
+            <!-- Project Card 2 -->
+            <div class="project-card">
+                <h3>Project Title 2</h3>
+                <p>Short description of the project highlighting key aspects.</p>
+                <a href="#">View Project</a>
+            </div>
+
+            <!-- Project Card 3 -->
+            <div class="project-card">
+                <h3>Project Title 3</h3>
+                <p>Short description of the project highlighting key aspects.</p>
+                <a href="#">View Project</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Let's Connect!</h2>
+        <p>You can find me on:</p>
+        <ul class="contact-links">
+            <li><a href="https://github.com/yourusername">GitHub</a></li>
+            <li><a href="#">LinkedIn</a></li>
+            <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+        </ul>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 [Your Name]. All rights reserved.</p>
     </footer>
 </body>
 </html>
