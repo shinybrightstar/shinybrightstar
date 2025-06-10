@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ShinyBrightStar</h1>
 <h3 align="center">A Community Manager passionate about building connections and driving impact in Open Source</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinybrightstar&label=Profile%20views&color=0e75b6&style=flat" alt="shinybrightstar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinybrightstar" alt="shinybrightstar" /></a> </p>
 
@@ -22,13 +21,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinybrightstar&show_icons=true&locale=en&layout=compact" alt="shinybrightstar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinybrightstar&show_icons=true&locale=en" alt="shinybrightstar" /></p>
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinybrightstar&show_icons=true&locale=en" alt="shinybrightstar" /></p> --->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinybrightstar&" alt="shinybrightstar" /></p>
 
 <p>
   <a href="https://github.com/shinybrightstar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=blue" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shinybrightstar&label=Profile%20views&color=0e75b6&style=flat" alt="shinybrightstar" /> </p>
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
