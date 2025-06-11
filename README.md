@@ -4,11 +4,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shinybrightstar&title=MultiLanguage,Repositories,Commits,Followers,Experience,Stars,PullRequest,Issues)](https://github.com/shinybrightstar/github-profile-trophy)
 <!--- <p align="left"> <a href="https://github.com/shinybrightstar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinybrightstar" alt="shinybrightstar" /></a> </p> --->
 
-- 🔭 I’m currently working on **Strategies for effective Community Engagement in Open Source projects**
+- 🔭 I’m currently working on **Strategies for effective Community Engagement in Open Source projects** and **actively advancing my skills in Project Management** 🌱 
 
-   - 🌱 And **Advanced skills in Product Management and Technical Writing/Support**
-
-- 👯 I’m looking to collaborate on **Open source projects that focus on user experience, product feedback and support systems**
+- 👯 I’m looking to collaborate on **Open Source projects that focus on user experience, product feedback and support systems.**
 
 - 💬 Ask me about **Community initiatives that promote knowledge sharing and engagement.**
 
