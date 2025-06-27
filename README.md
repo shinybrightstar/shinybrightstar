@@ -21,7 +21,7 @@
 
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinybrightstar&show_icons=true&locale=en" alt="shinybrightstar" /></p> --->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinybrightstar&" alt="shinybrightstar" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shinybrightstar)](https://git.io/streak-stats)
 
 <p>
    <a href="https://github.com/shinybrightstar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=blue" /></a>
