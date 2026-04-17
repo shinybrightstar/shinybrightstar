@@ -10,7 +10,7 @@
 
 ### 🎯 What I'm Building Toward
 
-- **Developer Support & Developer Experience (DevEx) roles** — Combining my frontline community experience with deep technical skills to transition into Developer Support Engineering.
+- **Developer Community, Developer Support & Developer Experience (DevEx) roles** — Growing my technical depth in Linux, APIs, CI/CD, and troubleshooting to complement my community management experience. Whether it's managing a developer community, supporting developers directly, or improving the developer experience — I want to be where developers and products meet.
 
 ### 📚 Currently Learning
 
@@ -39,7 +39,7 @@
 
 ### 🛠️ Tools & Technologies
 
-<p align="left">
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -50,7 +50,7 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinybrightstar&show_icons=true&locale=en&layout=compact" alt="shinybrightstar" /></p>
+<p><img align="centered" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinybrightstar&show_icons=true&locale=en&layout=compact" style="transform: rotate(90deg) /></p>
 
 <br clear="both"/>
 
