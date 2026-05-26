@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm ShinyBrightStar</h1>
-<h3 align="center"> Python • SQL </h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shinybrightstar&label=Profile%20views&color=0e75b6&style=flat" alt="shinybrightstar" />
 </p>
 
+<!--
+This is a 
+multi-line comment
+<h3 align="center"> Python • SQL </h3>
 <p align="center">
 I've decided to take some time and upskill myself in Data Engineering. With a background in tech community management, project management, and analytical problem-solving, I'm currently building end-to-end data pipelines and strengthening my engineering fundamentals with a focused learning plan.
 </p>
@@ -104,3 +108,5 @@ I've decided to take some time and upskill myself in Data Engineering. With a ba
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+-->
